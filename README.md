@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working at Oracle as a SWE Intern
-🌱 I’m currently learning Algorithms
-💻 Languages: Java, C, HTML/CSS, JavaScript
+- 🔭 I’m currently working at Oracle as a SWE Intern
+- 🌱 I’m currently learning Algorithms
+- 💻 Languages: Java, C, HTML/CSS, JavaScript
