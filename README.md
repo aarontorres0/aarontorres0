@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working at Oracle as a SWE Intern -->
-- 🌱 I’m currently learning Operating Systems and Big Data Systems
+- 🌱 I’m currently studying Operating Systems and Big Data Systems
 - 💻 Languages: Java, C, Python, JavaScript
