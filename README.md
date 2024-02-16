@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- - 🔭 I’m currently working at Oracle as a SWE Intern -->
-- 🌱 I’m currently studying User Interfaces and Mobile App Development
+- 🔭 I’m currently working on [ColorStack at UW-Madison](https://github.com/colorstackatuw)
 - 💻 Languages: Java, Python, JavaScript
