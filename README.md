@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [ColorStack at UW-Madison](https://github.com/colorstackatuw)
+- 🌱 I’m currently learning Human–Computer Interaction
 - 💻 Languages: Java, Python, JavaScript
