@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on [DuelDex](https://github.com/aarontorres0/DuelDex)
-- 🌱 I’m currently learning Human–Computer Interaction
-- 💻 Languages: Java, Python, JavaScript
